@@ -27,7 +27,7 @@ def parse_bibtex_to_text(bibtex_file, output_dir):
         title = title.replace("}","")
 
         # Format the citation
-        authors = authors.replace("and ", "")
+        authors = authors.replace(" and", ";")
         citation = f"{authors}. \"{title}\". {journal}, {year}."
 
         # Create the text content
