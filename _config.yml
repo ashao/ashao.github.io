@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Shao's Personal Site"
+title                    : "Andrew Shao"
 title_separator          : "-"
 name                     : &name "Andrew Shao, PhD"
 description              : &description "Keep track of my goings on in scientific computing and some hobbies"
