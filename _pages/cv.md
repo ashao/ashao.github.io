@@ -20,6 +20,7 @@ Work experience
 ======
 
 Hewlett Packard Enterprise, HPC, AI, and Compute | Cray Labs	
+------
 Principal HPC&AI Research Scientist	2022-Present
 * Led scientific, weather and climate-related collaborations with NOAA/GFDL, IPSL, and M2LInES to explore novel AI and HPC simulation applications including: RNN and CNNs for mimicking high-CFL methods in circulation models, neural networks for physical parameterizations, and intelligent sampling methods for efficient, high-resolution surrogate training using PyTorch
 * Created POCs combining AI and computational fluid dynamics applications with collaborators at national labs, in academia, and with a Formula 1 team using online learning/inference for mesh motion, reinforcement learning for active flow control, and Bayesian optimization for parameter tuning
@@ -32,6 +33,7 @@ Principal HPC&AI Research Scientist	2022-Present
 * Received an external commendation from a national lab collaborator for developing an online, producer/consumer-based workflow for surrogate AI training from simulation data on Perlmutter; formally recognized for review excellence in service of an internal technology conference
 
 Government of Canada, Environment and Climate Change Canada
+------
 Earth System Coupling Scientist (Permanent position),	2021-2022
 Scientific Computing Contractor,	2020-2021
 Earth System Coupling Scientist (Temporary position)	2020
@@ -46,18 +48,21 @@ Earth System Coupling Scientist (Temporary position)	2020
 * Developed the numerics and physics-based parameterizations for the NEMO and MOM6 ocean models
 
 University of Victoria, School of Earth and Ocean Sciences	
+------
 Postdoctoral Research Fellow	2017-2020
 * Architected the Fortran client for the open-source SmartSim library used to enable online ML inference in compiled-language models as a founding project engineer with Cray Inc.
 * Predicted interior ocean changes from surface changes using Keras-based LSTMs and ocean model output
 * Performed large-scale data analysis using dask, xarray, OpenMP, and MPI on large ensemble (100+) climate model output O(100TB)
 
 Princeton University/NOAA Geophysical Fluid Dynamics Laboratory	
+------
 Postdoctoral Research Associate	2016-2017
 * Developed a new discretization technique for diffusion of scalars along arbitrary directions solving previous issues with non-monotonicity; now used in both MOM6 and BLOM
 * Owned and validated key ocean model diagnostics published as part of the international CMIP project
 * Validated high-order regridding/remapping techniques in MOM6 for use in online diagnostics
 
 University of Washington, School of Oceanography	
+------
 Graduate Research Assistant	2010-2016
 * Implemented and optimized biogeochemical models using a C-based code with OpenMP parallelization
 * Added capability to existing codebase to create an adjoint model for the inverse modeling of 3d transport
